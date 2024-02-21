@@ -1,4 +1,4 @@
-# Install script for directory: /home/belenmaria/ED/vector2d
+# Install script for directory: /home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/belenmaria/ED/vector2d/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

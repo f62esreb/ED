@@ -1,5 +1,5 @@
 CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o: \
- /home/belenmaria/ED/vector2d/test_vector2d.cpp \
+ /home/belenmaria/Documentos/Universidad/2324/2\ CUATRI/ED/vector2d/test_vector2d.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/stdexcept \
  /usr/include/c++/11/exception \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -156,8 +156,8 @@ CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/belenmaria/ED/vector2d/vector2d.hpp /usr/include/c++/11/memory \
- /usr/include/c++/11/bits/stl_tempbuf.h \
+ /home/belenmaria/Documentos/Universidad/2324/2\ CUATRI/ED/vector2d/vector2d.hpp \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
  /usr/include/c++/11/bits/uses_allocator.h \
@@ -174,5 +174,5 @@ CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o: \
  /usr/include/c++/11/bits/atomic_base.h \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h \
- /home/belenmaria/ED/vector2d/vector2d_imp.hpp \
+ /home/belenmaria/Documentos/Universidad/2324/2\ CUATRI/ED/vector2d/vector2d_imp.hpp \
  /usr/include/c++/11/cassert /usr/include/assert.h

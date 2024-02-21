@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/belenmaria/ED/vector2d
+CMAKE_SOURCE_DIR = "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/belenmaria/ED/vector2d/build
+CMAKE_BINARY_DIR = "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/test_vector2d.dir/clean
 CMakeFiles/test_vector2d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_vector2d.dir/build.make CMakeFiles/test_vector2d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_vector2d.dir/build.make CMakeFiles/test_vector2d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/belenmaria/ED/vector2d/build/CMakeFiles --progress-num=1,2 "Built target test_vector2d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/build/CMakeFiles" --progress-num=1,2 "Built target test_vector2d"
 .PHONY : CMakeFiles/test_vector2d.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/test_vector2d.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/belenmaria/ED/vector2d/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/build/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/test_vector2d.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/belenmaria/ED/vector2d/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/build/CMakeFiles" 0
 .PHONY : CMakeFiles/test_vector2d.dir/rule
 
 # Convenience name for target.

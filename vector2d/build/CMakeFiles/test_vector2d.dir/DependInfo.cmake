@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/belenmaria/ED/vector2d/test_vector2d.cpp" "CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o" "gcc" "CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o.d"
+  "/home/belenmaria/Documentos/Universidad/2324/2 CUATRI/ED/vector2d/test_vector2d.cpp" "CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o" "gcc" "CMakeFiles/test_vector2d.dir/test_vector2d.cpp.o.d"
   )
 
 # Targets to which this target links.
