@@ -51,6 +51,34 @@
 
 // TODO: define the interface for the proposed ADT.
 // Remember: here we want interfaces not implementations.
+template< class T>
+class Vector2D{
+
+
+    public:
+
+        typedef std::shared_ptr<Vector2D<T>> Ref;
+
+        Vector2D();
+
+        Vector2D(T x, T y);
+
+        static typename Vector2D<T>::Ref create();
+
+        static typename Vector2D<T>::Ref create(T x,T y);
+
+        T x() const{return _x;}
+        T y() const{return _y;}
+
+        void set_x(T x){_x=x;}
+        void set_y(T y){_y=y;};
+
+    private:
+
+        T _x;
+        T _y;
+
+};
 
 //
 
