@@ -29,14 +29,14 @@ Vector2D<T>::Vector2D(T x, T y){
 }
 
 template <class T>
-typename Vector2D<T>::Ref Vector2D<T>::create(){
+typename Vector2D<T>::Ref Vector2D<T>::create() const{
 
     return std::make_shared<Vector2D<T>>();
 
 }
 
 template <class T>
-typename Vector2D<T>::Ref Vector2D<T>::create(T x, T y ){
+typename Vector2D<T>::Ref Vector2D<T>::create(T x, T y ) const{
 
     return std::make_shared<Vector2D<T>>(x,y);
 
