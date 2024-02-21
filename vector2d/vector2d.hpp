@@ -63,9 +63,9 @@ class Vector2D{
 
         Vector2D(T x, T y);
 
-        static Ref create() const;
+        static Ref create();
 
-        static Ref create(T x,T y) const;
+        static Ref create(T x,T y);
 
         T x() const{return _x;}
         T y() const{return _y;}
